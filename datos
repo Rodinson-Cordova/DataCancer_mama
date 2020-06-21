@@ -1,4 +1,4 @@
-Clase_Eventos,Años,Tamaño_Tumor,Etapas_Nodos,Tumor_Maligno,Mama,Pecho_Cuádruple,Irritación,Tratamiento,Quimioterapia
+clase_eventos,anos,tamano_tumor,etapas_nodos,tumor_maligno,mama,pecho_cuadruple,irritacion,tratamiento,quimioterapia
 eventos_no_recurrentes,30-39,30-34,no,3,izquierda,izquierda_baja,no,si,si
 eventos_no_recurrentes,40-49,20-24,no,2,derecha,derecha_arriba,no,si,no
 eventos_no_recurrentes,40-49,20-24,no,2,izquierda,izquierda_baja,no,si,no
